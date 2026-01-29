@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0941-valid-mountain-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
