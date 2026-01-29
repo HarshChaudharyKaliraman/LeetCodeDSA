@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
+| [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
