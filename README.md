@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1550-three-consecutive-odds) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
