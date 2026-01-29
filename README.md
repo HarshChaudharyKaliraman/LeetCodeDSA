@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 <!---LeetCode Topics End-->
