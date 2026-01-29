@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
