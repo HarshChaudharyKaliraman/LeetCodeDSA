@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1550-three-consecutive-odds) |
+| [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
