@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
