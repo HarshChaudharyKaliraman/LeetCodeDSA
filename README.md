@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1800-maximum-ascending-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
