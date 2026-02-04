@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0896-monotonic-array) |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
