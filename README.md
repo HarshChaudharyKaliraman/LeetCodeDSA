@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
