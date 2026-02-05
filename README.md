@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
