@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
+| [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
+| [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
 |  |
