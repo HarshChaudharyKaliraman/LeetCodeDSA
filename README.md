@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Simulation
@@ -143,9 +145,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
