@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-valid-mountain-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
 ## Depth-First Search
 |  |
 | ------- |
