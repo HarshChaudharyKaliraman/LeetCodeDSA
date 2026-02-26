@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0078-subsets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
