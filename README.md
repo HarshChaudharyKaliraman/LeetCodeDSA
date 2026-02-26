@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
