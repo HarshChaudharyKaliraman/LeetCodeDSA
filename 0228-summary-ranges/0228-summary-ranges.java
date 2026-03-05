@@ -1,28 +1,35 @@
 class Solution {
     public List<String> summaryRanges(int[] nums) {
-        List<String> ans = new ArrayList<String>();
+        List<String> ans = new ArrayList<>();
 
         if(nums.length==0){
             return ans;
         }
-        int check=nums[0];
-        int start=nums[0];
+
+        int point = nums[0];
+        int a=nums[0];
+        int b=0;
+
         for(int i=0; i<nums.length; i++){
-            if(nums[i]!=check){
-                if(start!=nums[i-1]){
-                    ans.add(start+"->"+nums[i-1]);
-                }else if(start==nums[i-1]){
-                    ans.add(Integer.toString(start));
+            if(nums[i]==point){
+                b=nums[i];
+            }else{
+                if(a==b){
+                    ans.add(Integer.toString(a));
+                }else{
+                    ans.add((Integer.toString(a))+"->"+(Integer.toString(b)));
                 }
-                check=nums[i];
-                start=nums[i];
+                a=nums[i];
+                i--;
+                point=a;
+                point--;
             }
-            check++;
+            point++;
         }
-        if(start!=nums[nums.length-1]){
-            ans.add(start+"->"+nums[nums.length-1]);
-        }else if(start==nums[nums.length-1]){
-            ans.add(Integer.toString(start));
+        if(a==b){
+            ans.add(Integer.toString(a));
+        }else{
+            ans.add((Integer.toString(a))+"->"+(Integer.toString(b)));
         }
         return ans;
     }
