@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
