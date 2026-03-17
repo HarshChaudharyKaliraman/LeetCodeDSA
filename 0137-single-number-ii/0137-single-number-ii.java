@@ -1,20 +1,17 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans=0;
-        int i=0;
-        while(i<32){
-            int count=0;
-            for(int e : nums){
-                int t = (1<<i);
-                if((e&t)!=0){
-                    count++;
+        int result = 0;
+        for (int i = 0; i < 32; i++) {
+            int sum = 0;
+            for (int num : nums) {
+                if (((num >> i) & 1) == 1) {
+                    sum++;
                 }
             }
-            if(count%3!=0){
-                ans=ans|(1<<i);
+            if (sum % 3 != 0) {
+                result |= (1 << i);
             }
-            i++;
         }
-        return ans;
+        return result;
     }
 }
