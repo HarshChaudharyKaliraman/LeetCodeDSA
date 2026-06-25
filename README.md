@@ -3,8 +3,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
@@ -59,11 +59,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,30 +73,32 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [1328-break-a-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
@@ -103,8 +106,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -115,8 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1732-find-the-highest-altitude) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -124,8 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
@@ -135,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
@@ -147,8 +150,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
@@ -169,15 +172,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
@@ -187,23 +190,23 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
@@ -219,29 +222,29 @@ A collection of LeetCode questions to ace the coding interview!
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
