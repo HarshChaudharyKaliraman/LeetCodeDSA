@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Queue
 | Problem Name | Difficulty |
