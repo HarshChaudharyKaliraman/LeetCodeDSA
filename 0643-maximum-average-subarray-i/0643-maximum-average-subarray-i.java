@@ -7,9 +7,6 @@ class Solution {
         for(int i=l; i<=r; i++){
             sum+=nums[i];
         }
-        if((sum/k)>ans){
-            ans=sum/k;
-        }
         while(r<nums.length){
             if((sum/k)>ans){
                 ans=sum/k;
