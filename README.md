@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -259,10 +261,15 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
