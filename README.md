@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
