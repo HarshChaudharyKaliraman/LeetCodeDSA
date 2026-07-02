@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
+| [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
