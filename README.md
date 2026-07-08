@@ -354,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
