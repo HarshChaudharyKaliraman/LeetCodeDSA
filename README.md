@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
