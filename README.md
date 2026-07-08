@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
@@ -354,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
