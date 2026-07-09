@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
