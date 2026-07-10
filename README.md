@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
