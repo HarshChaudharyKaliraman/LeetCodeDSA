@@ -1,38 +1,29 @@
-class Solution 
-{
-    List<String> ans = new ArrayList<>();
-    public List<String> letterCombinations(String digits) 
-    {
-     Map<Character, String> map = new HashMap<>();
-     map.put('2', "abc");
-     map.put('3', "def");
-     map.put('4', "ghi");
-     map.put('5', "jkl");
-     map.put('6', "mno");
-     map.put('7', "pqrs");
-     map.put('8', "tuv");
-     map.put('9', "wxyz");
-
-     solve(map, digits, 0, new StringBuilder());  
-     return ans; 
+class Solution {
+    public List<String> letterCombinations(String digits) {
+        List<String> ans = new ArrayList<>();
+        HashMap<Character, String> map = new HashMap<>();
+        map.put('0', "");
+        map.put('2', "abc");
+        map.put('3', "def");
+        map.put('4', "ghi");
+        map.put('5', "jkl");
+        map.put('6', "mno");
+        map.put('7', "pqrs");
+        map.put('8', "tuv");
+        map.put('9', "wxyz");
+        solve(ans, map, digits, 0, new StringBuilder());
+        return ans;
     }
-    void solve(Map<Character, String> map, String digits, int id, StringBuilder sb)
-    {
-        //base condition
-         if(id == digits.length())
-           {
-            ans.add(sb.toString());
+    void solve(List<String> ans, HashMap<Character, String> map, String digits, int start, StringBuilder temp){
+        if(start==digits.length()){
+            ans.add(temp.toString());
             return;
-           }          
-        //get the charcters from the digit
-          String code = map.get(digits.charAt(id));
-        //explore all characters of the digit
-        for(char c: code.toCharArray())
-        {
-            sb.append(c);
-             solve(map, digits, id+1, sb);
-             sb.deleteCharAt(sb.length()-1); 
         }
-            
+        String co = map.get(digits.charAt(start));
+        for( char c : co.toCharArray()){
+            temp.append(c);
+            solve(ans, map, digits, start+1, temp);
+            temp.deleteCharAt(temp.length()-1);
+        }
     }
 }
