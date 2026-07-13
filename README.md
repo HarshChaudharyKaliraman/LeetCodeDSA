@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0077-combinations) |
