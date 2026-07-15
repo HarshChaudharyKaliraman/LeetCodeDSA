@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1328-break-a-palindrome) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
