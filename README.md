@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0605-can-place-flowers) |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
