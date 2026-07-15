@@ -6,10 +6,6 @@ class Solution {
         if(ratings.length==1){
             return 1;
         }
-
-        if(ratings[0]>ratings[1]){
-            arr[0]=arr[1]+1;
-        }
         for(int i=1; i<ratings.length; i++){
             if(ratings[i-1]<ratings[i]){
                 arr[i]=arr[i-1]+1;
