@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0079-word-search](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bitmask
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Monotonic Stack
