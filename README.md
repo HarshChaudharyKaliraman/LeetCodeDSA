@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Queue
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
