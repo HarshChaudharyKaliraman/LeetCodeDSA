@@ -16,21 +16,20 @@
 class Solution {
     int n=0;
     int ans=-1;
-    public void traversal(TreeNode root, List<Integer> ar, int k){
+    public void traversal(TreeNode root, int k){
         if(root==null){
             return;
         }
-        traversal(root.left, ar, k);
+        traversal(root.left, k);
         n++;
         if(n==k){
             ans = root.val;
             return;
         }
-        traversal(root.right, ar, k);
+        traversal(root.right, k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> ar=new ArrayList<>();
-        traversal(root, ar, k);
+        traversal(root, k);
         return ans;
     }
 }
