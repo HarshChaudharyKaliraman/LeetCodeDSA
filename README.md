@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0031-next-permutation) |
