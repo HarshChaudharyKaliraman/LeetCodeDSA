@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0409-longest-palindrome/) | Easy |
