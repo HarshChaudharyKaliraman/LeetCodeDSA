@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
