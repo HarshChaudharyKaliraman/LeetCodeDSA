@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1683-invalid-tweets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
