@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1219-path-with-maximum-gold) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -480,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1211-queries-quality-and-percentage](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1683-invalid-tweets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
