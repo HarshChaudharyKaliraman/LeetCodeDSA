@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0905-sort-array-by-parity) |
