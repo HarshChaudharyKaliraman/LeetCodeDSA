@@ -1,6 +1,4 @@
 class Solution {
-    boolean fir=false;
-    boolean sec=false;
     public boolean validPalindrome(String s) {
         return solve(s, 0, s.length()-1, 1);
     }
