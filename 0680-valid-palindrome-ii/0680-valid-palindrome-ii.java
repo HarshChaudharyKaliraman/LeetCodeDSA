@@ -1,18 +1,25 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        return solve(s, 0, s.length()-1, 1);
+        int i = 0;
+        int j = s.length() - 1;
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) {
+                return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
+            }
+            i++;
+            j--;
+        }
+        return true;
     }
 
-    public boolean solve(String s, int i, int j, int ch){
-        if(i>=j){
-            return true;
+    public boolean isPalindrome(String s, int i, int j) {
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) {
+                return false;
+            }
+            i++;
+            j--;
         }
-        if(s.charAt(i)==s.charAt(j)){
-            return solve(s, i+1, j-1, ch);
-        }
-        if(ch==1){
-            return solve(s, i+1, j, 0) || solve(s, i, j-1, 0);
-        }
-        return false;
+        return true;
     }
 }
