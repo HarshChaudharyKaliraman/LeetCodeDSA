@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
