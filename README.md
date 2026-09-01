@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Database
 | Problem Name | Difficulty |
