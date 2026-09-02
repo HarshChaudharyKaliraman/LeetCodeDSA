@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1328-break-a-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
