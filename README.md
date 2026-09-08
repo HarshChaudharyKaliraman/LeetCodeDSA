@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2305-fair-distribution-of-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2595-number-of-even-and-odd-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
