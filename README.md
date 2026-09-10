@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Prefix Sum
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
