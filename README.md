@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2652-sum-multiples](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2652-sum-multiples/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
