@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -554,4 +558,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
