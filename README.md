@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2652-sum-multiples](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2652-sum-multiples/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
