@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Euclidean Algorithm
@@ -582,4 +586,16 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
