@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0204-count-primes/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0509-fibonacci-number) |
