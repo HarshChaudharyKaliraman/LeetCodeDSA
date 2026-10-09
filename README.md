@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1328-break-a-palindrome](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/HarshChaudharyKaliraman/LeetCodeDSA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
