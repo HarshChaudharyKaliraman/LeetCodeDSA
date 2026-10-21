@@ -1,19 +1,21 @@
 class Solution {
     public int secondHighest(String s) {
+        ArrayList<Character> arr = new ArrayList<Character>();
         int max=-1;
-        int sec=-1;
-
+        int max2=-1;
         for(int i=0; i<s.length(); i++){
-            if(Character.isDigit(s.charAt(i))){
-                int ch = s.charAt(i)-'0';
-                if(ch>max){
-                    sec=max;
-                    max=ch;
-                }else if(ch>sec && ch<max){
-                    sec=ch;
-                }
+            if(s.charAt(i)>='0' && s.charAt(i)<='9'){
+                arr.add(s.charAt(i));
             }
         }
-        return sec;
+        for(int i=0; i<arr.size(); i++){
+            if(max<(arr.get(i)-'0')){
+                max2=max;
+                max=arr.get(i)-'0';
+            }else if(max2<(arr.get(i)-'0') && max>(arr.get(i)-'0')){
+                max2=arr.get(i)-'0';
+            }
+        }
+        return max2;
     }
 }
